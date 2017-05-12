@@ -1,6 +1,7 @@
 
 
-This repository collet some exercises about ECMAScript 2015 prmosises completed with [Nuria Escude](https://github.com/nuriaescude). You can see the complete ist of exercises on [nodeschool](https://github.com/stevekane/promise-it-wont-hurt).
+This repository collet some exercises about ECMAScript 2015 promises completed with [Nuria Escude](https://github.com/nuriaescude). You can see the complete list of exercises on [nodeschool](https://github.com/stevekane/promise-it-wont-hurt).
+
 
 
 # Promises in javascript
