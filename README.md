@@ -1,4 +1,9 @@
 
+# JS_PROMISES
+
+This repository collet some exercises completed with [Nuria Escude](https://github.com/nuriaescude) from [nodeschool](https://github.com/stevekane/promise-it-wont-hurt) about ECMAScript 2015 prmosises
+
+
 # Promises in javascript
 
 You can expect that the functions passed to the `then method of a
@@ -71,4 +76,4 @@ var promise = Promise.reject(new Error('SECRET VALUE'));
 
 
 
-# JS_PROMISES
+
